@@ -27,7 +27,7 @@ As cinco notas do candidato no exame (Ciências da Natureza, Ciências Humanas, 
 
 ```
 .
-├── article/              # Artigo do trabalho em LaTeX (em progresso)
+├── docs/                 # Artigo do trabalho em LaTeX
 ├── data/
 │   ├── raw/              # Microdados originais do ENEM em CSV e dicionários oficiais (2020–2023) - baixar antes de rodar os notebooks
 │   ├── external/         # Malha das UFs do Brasil (GeoJSON) usada nos mapas - já incluída no repositório
