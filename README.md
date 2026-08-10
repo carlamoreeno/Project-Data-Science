@@ -57,7 +57,7 @@ Devido a pasta `data/` conter arquivos muito pesados, as pastas `data/raw` e `da
 Seguem abaixo, os links diretamente para os aertefatos mais relevantes do projeto:
 - 📄 Artigo: [Desigualdade Educacional no ENEM (PDF)](docs/Artigo%20Projeto.pdf)
 - 📊 Slides:
-  - [Apresentação Problema e Dataset](slides/slides/12-05-26%20Apresentac%CC%A7a%CC%83o%20Problema%20e%20Dataset.pdf))
+  - [Apresentação Problema e Dataset](slides/slides/12-05-26%20Apresentac%CC%A7a%CC%83o%20Problema%20e%20Dataset.pdf)
   - [Atualização de Status do Projeto](slides/14-05-26%20Atualização%20de%20Status%20do%20Projeto.pdf)
   - [Apresentação Final do Projeto](slides/16-07-26%20Apresentação%20Projeto.pdf)
 - 💻 Notebooks: 
