@@ -4,7 +4,7 @@ Projeto acadêmico da disciplina "Fundamentos da Ciência de Dados" (2026.1).
 
 Programa de Pós-Graduação em Informática (PPGI), Universidade Federal do Rio de Janeiro (UFRJ). 
 
-**Artigo:** *Quais fatores socioeconômicos mais impactam o desempenho do estudante?* - [📄 leia o PDF](docs/Artigo%20Projeto.pdf)
+**Artigo:** *Desigualdade Educacional no ENEM: quais fatores socioeconômicos mais impactam o desempenho do estudante?* - [📄 leia o PDF](docs/Artigo%20Projeto.pdf)
 
 ## Sumário
 - [Resumo](#resumo)
