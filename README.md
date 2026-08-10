@@ -19,7 +19,7 @@ Programa de Pós-Graduação em Informática (PPGI), Universidade Federal do Rio
  
 Este projeto investiga como fatores socioeconômicos — renda familiar, tipo de escola (pública/privada), raça, escolaridade dos pais, entre outros — se relacionam com o desempenho dos candidatos no Exame Nacional do Ensino Médio (ENEM).
 
-A análise utiliza os **microdados públicos do INEP referentes às edições de **2020 a 2023**, com granularidade individual (entre 3,4 e 5,8 milhões de registros por edição). São consideradas as 5 notas do exame (Ciências da Natureza, Ciências Humanas, Linguagens e Códigos, Matemática e Redação); na análise consolidada entre edições adota-se a média simples dessas 5 notas como métrica de desempenho.
+A análise utiliza os **microdados públicos do INEP** referentes às edições de **2020 a 2023**, com granularidade individual (entre 3,4 e 5,8 milhões de registros por edição). São consideradas as 5 notas do exame (Ciências da Natureza, Ciências Humanas, Linguagens e Códigos, Matemática e Redação); na análise consolidada entre edições adota-se a média simples dessas 5 notas como métrica de desempenho.
 
 O resultado central é que **a renda familiar é o fator nº 1 no ranking de associação com o desempenho, seguida por tipo de escola (pública x privada) e bens do domicílio; e essa hierarquia se manteve estável nas quatro edições** - sem sinal de redução da desigualdade no período.
 
