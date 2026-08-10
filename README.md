@@ -57,9 +57,9 @@ Devido a pasta `data/` conter arquivos muito pesados, as pastas `data/raw` e `da
 Seguem abaixo, os links diretamente para os aertefatos mais relevantes do projeto:
 - 📄 Artigo: [Desigualdade Educacional no ENEM (PDF)](docs/Artigo%20Projeto.pdf)
 - 📊 Slides:
-  - [Apresentação Problema e Dataset](slides/2026-05-12_apresentacao-problema-e-dataset.pdf)
-  - [Atualização de Status do Projeto](slides/2026-05-14_atualizacao-status-projeto.pdf)
-  - [Apresentação Final do Projeto](slides/2026-07-16_apresentacao-projeto.pdf)
+  - [Apresentação Problema e Dataset](slides/slides/12-05-26%20Apresentac%CC%A7a%CC%83o%20Problema%20e%20Dataset.pdf))
+  - [Atualização de Status do Projeto](slides/14-05-26%20Atualização%20de%20Status%20do%20Projeto.pdf)
+  - [Apresentação Final do Projeto](slides/16-07-26%20Apresentação%20Projeto.pdf)
 - 💻 Notebooks: 
   - Tratamento: [2020](src/tratamento_enem_2020.ipynb), [2021](src/tratamento_enem_2021.ipynb), [2022](src/tratamento_enem_2022.ipynb), [2023](src/tratamento_enem_2023.ipynb)
   - Análise: [2020](src/analise_enem_2020.ipynb), ([2021](src/analise_enem_2021.ipynb), [2022](src/analise_enem_2022.ipynb), [2023](src/analise_enem_2023.ipynb))
