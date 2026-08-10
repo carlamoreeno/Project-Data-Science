@@ -36,11 +36,11 @@ Perguntas de pesquisa, metodologia, limitações e resultados completos estão m
  
 ```
 .
-├── docs/                 # Artigo do trabalho em PDF
 ├── data/
 │   ├── raw/              # Microdados originais do ENEM em CSV e dicionários oficiais (2020–2023) - baixar antes de rodar os notebooks
 │   ├── external/         # Malha das UFs do Brasil (GeoJSON) usada nos mapas - já incluída no repositório
 │   └── processed/        # Arquivos Parquet limpos e prontos para análise - gerados automaticamente ao rodar os notebooks de tratamento
+├── docs/                 # Artigo do trabalho em PDF
 ├── reports/
 │   └── figures/          # Figuras PNG com gráficos e análises
 ├── slides/               # Slides de apresentação e atualizações do projeto
