@@ -62,7 +62,7 @@ Seguem abaixo, os links diretamente para os aertefatos mais relevantes do projet
   - [Apresentação Final do Projeto](slides/16-07-26%20Apresentação%20Projeto.pdf)
 - 💻 Notebooks: 
   - Tratamento: [2020](src/tratamento_enem_2020.ipynb), [2021](src/tratamento_enem_2021.ipynb), [2022](src/tratamento_enem_2022.ipynb), [2023](src/tratamento_enem_2023.ipynb)
-  - Análise: [2020](src/analise_enem_2020.ipynb), ([2021](src/analise_enem_2021.ipynb), [2022](src/analise_enem_2022.ipynb), [2023](src/analise_enem_2023.ipynb))
+  - Análise: [2020](src/analise_enem_2020.ipynb), [2021](src/analise_enem_2021.ipynb), [2022](src/analise_enem_2022.ipynb), [2023](src/analise_enem_2023.ipynb)
   - [Análise Consolidada](src/analise_consolidada_edicoes_enem.ipynb)
  
 ## Como Reproduzir
